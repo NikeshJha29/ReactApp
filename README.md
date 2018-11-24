@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+here we can add the text by clciking on the add button
+and we can delete text by clicking on the text in the white area.
 
 ## Available Scripts
 
